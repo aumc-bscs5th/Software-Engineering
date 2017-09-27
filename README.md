@@ -3,4 +3,4 @@
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble ? Contact [CR]() or email at [university.purpose.email@gmail.com](). Hope your problem get resolved , good day.
