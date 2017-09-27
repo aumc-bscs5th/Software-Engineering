@@ -12,7 +12,7 @@
     <tr>
       <td style="text-align: left">1</td>
       <td style="text-align: left">Try Git</td>
-      <td style="text-align: left"> Download </a></td>
+      <td style="text-align: left"><a href= "https://drive.google.com/open?id=0B-nsrmf1PB0XV19LUmVrYUZUWU0"> Download </a></td>
     </tr>
   </thead>
   <tbody>
