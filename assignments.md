@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align: left"> Assignment </th>
+      <th style="text-align: left"> No. </th>
       <th style="text-align: left"> Name </th>
       <th style="text-align: left"> Download </th>
     </tr>
