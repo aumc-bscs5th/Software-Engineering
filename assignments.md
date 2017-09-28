@@ -7,7 +7,6 @@
       <th style="text-align: left"> Name </th>
       <th style="text-align: left"> Download </th>
     </tr>
-    </thead>
   <tbody>
     <tr>
       <td style="text-align: left">1</td>
