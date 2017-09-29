@@ -2,13 +2,13 @@
 https://github.com/aumc-bscs5th/Software-Engineering/invitations
 ### Welcome to Software Engineering Course offered at Air University Multan Campus for undergraduate Classes.
 
-Course Code - SE-225                      Credit Hours: 3-1 --> 04              Lab Yes
+Course Code:      SE-225                      Credit Hours: 3-1 --> 04              Lab:             Yes
 
-Pre-requiste   Object Oriented Programming                        Weekly Classes        03 hours            Labs - 03 hours 
+Pre-requiste   Object Oriented Programming                        Weekly Classes:        03 hours            Labs:       03 hours 
 
 This Course is Prerequisite For: SE327,SE329
 
-Course Instructor                                                Ahmad Moshin (ahmad@aumc.edu.pk)
+Course Instructor:                                                Ahmad Moshin (ahmad@aumc.edu.pk)
 
 ### The objectives of this course are:
 -- To introduce the students to the principles and techniques of Software Engineering leading to better analysis and design 
