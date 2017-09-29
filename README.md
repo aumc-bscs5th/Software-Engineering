@@ -1,3 +1,5 @@
+
+https://github.com/aumc-bscs5th/Software-Engineering/invitations
 ### Welcome to Software Engineering Course offered at Air University Multan Campus for undergraduate Classes.
 
 Course Code - SE-225                      Credit Hours: 3-1 --> 04              Lab Yes
