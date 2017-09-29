@@ -7,6 +7,7 @@ Course Code - SE-225                      Credit Hours: 3-1 --> 04              
 Pre-requiste   Object Oriented Programming                        Weekly Classes        03 hours            Labs - 03 hours 
 
 This Course is Prerequisite For: SE327,SE329
+
 Course Instructor                                                Ahmad Moshin (ahmad@aumc.edu.pk)
 
 ### The objectives of this course are:
