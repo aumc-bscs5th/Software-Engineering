@@ -4,7 +4,7 @@ https://github.com/aumc-bscs5th/Software-Engineering/invitations
 
 Course Code:      SE-225                      Credit Hours: 3-1 --> 04              Lab:             Yes
 
-Pre-requiste   Object Oriented Programming                        Weekly Classes:        03 hours            Labs:       03 hours 
+Pre-requiste:   Object Oriented Programming                        Weekly Classes:        03 hours            Labs:       03 hours 
 
 This Course is Prerequisite For: SE327,SE329
 
