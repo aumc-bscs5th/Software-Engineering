@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-    background: url('AULogowhite.png') no-repeat center center scroll;
+    background: url('https://github.com/aumc-bscs5th/Software-Engineering/blob/master/img/aumc.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
