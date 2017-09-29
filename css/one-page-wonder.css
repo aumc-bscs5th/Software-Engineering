@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-    background: url('https://github.com/aumc-bscs5th/Software-Engineering/blob/master/img/aumc.jpg') no-repeat center center scroll;
+    background: url('https://raw.githubusercontent.com/aumc-bscs5th/Software-Engineering/master/img/pen.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
